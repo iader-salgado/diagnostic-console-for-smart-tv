@@ -1,6 +1,6 @@
 {
   "version": "2.5.6",
   "download_url": "https://github.com/iader-salgado/diagnostic-console-for-smart-tv/releases/download/v2.5.6/Diagnostic-Console-for-Smart-TV-en_Setup.exe",
-  "changelog": "Compatibility and performance improvements.",
+  "changelog": "Stability improvements and support for new diagnostic features.",
   "message": "A new version {latest} was found. Do you want to download it now?"
 }
