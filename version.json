@@ -4,5 +4,5 @@
   "changelog": "Mejoras de estabilidad sin conexion a internet, nuevos comandos y nuevas funciones de diagnóstico.",
   "allow_group": ["A", "C"], 
   "force_update": false,
-  "message": "Se encontró una nueva versión"
+  "message": "Se encontró una nueva actualización"
 }
