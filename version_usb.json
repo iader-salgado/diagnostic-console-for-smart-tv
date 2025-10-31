@@ -4,6 +4,6 @@
   "changelog": "Mejoras de estabilidad sin conexion a internet, nuevos comandos y nuevas funciones de diagnóstico.",
   "News": "Su desempeño es nuestra prioridad, y queremos mantener sus servicios eficientes.",
   "allow_group": ["USB"], 
-  "force_update": false,
+  "force_update": True,
   "message": "Hemos actualizado tu USB Diagnostic console for Smart TV"
 }
