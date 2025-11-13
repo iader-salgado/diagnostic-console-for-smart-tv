@@ -3,7 +3,7 @@
   "download_url": "https://github.com/iader-salgado/diagnostic-console-for-smart-tv/releases/download/v2.5.6/Diagnostic-Console-for-Smart-TV_Setup.exe",
   "changelog": "Mejoras de estabilidad sin conexion a internet, nuevos comandos y nuevas funciones de diagnóstico.",
   "News": "Su desempeño es nuestra prioridad, y queremos mantener sus servicios eficientes.",
-  "allow_group": [], 
+  "allow_group": ["A"], 
   "force_update": false,
   "message": "Hemos actualizado tu Diagnostic console for Smart TV"
 }
