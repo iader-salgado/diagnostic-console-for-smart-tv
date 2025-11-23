@@ -1,5 +1,5 @@
 {
-  "version": "3.0.1",
+  "version": "3.0.0",
   "download_url": "https://github.com/iader-salgado/diagnostic-console-for-smart-tv/releases/download/USB_3.0/USB_Diagnostic_Console_for_Smart_TV.exe",
   "changelog": "Optimización para ejecución desde pendrive, correcciones en lectura USB, manejo mejorado de drivers, sistema de llave única vinculada a la USB y mejoras de estabilidad.",
   "News": "Nueva versión USB 3.0.1 disponible para tu dispositivo.",
