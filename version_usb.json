@@ -1,10 +1,10 @@
 {
-  "version": "2.5.9",
-  "download_url": "https://github.com/iader-salgado/diagnostic-console-for-smart-tv/releases/download/v2.5.6/Diagnostic-Console-for-Smart-TV_Setup.exe",
-  "changelog": "Mejoras de estabilidad sin conexion a internet, nuevos comandos y nuevas funciones de diagnóstico.",
-  "News": "Su desempeño es nuestra prioridad, y queremos mantener sus servicios eficientes.",
-  "allow_group": ["USB"], 
+  "version": "3.0.1",
+  "download_url": "https://github.com/iader-salgado/diagnostic-console-for-smart-tv/releases/download/USB_3.0/USB_Diagnostic_Console_for_Smart_TV.exe",
+  "changelog": "Optimización para ejecución desde pendrive, correcciones en lectura USB, manejo mejorado de drivers, sistema de llave única vinculada a la USB y mejoras de estabilidad.",
+  "News": "Nueva versión USB 3.0.1 disponible para tu dispositivo.",
+  "allow_group": ["USB"],
   "force_update": true,
-  "message": "Hemos actualizado tu USB Diagnostic console for Smart TV"
+  "message": "Actualización requerida: se han realizado mejoras importantes en la versión USB."
 }
 
