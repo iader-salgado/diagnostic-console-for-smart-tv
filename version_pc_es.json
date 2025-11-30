@@ -1,7 +1,7 @@
-os skins{
+{
   "version": "3.0.1",
   "download_url": "https://github.com/iader-salgado/diagnostic-console-for-smart-tv/releases/download/PC_3.0/Diagnostic-Console-for-Smart-TV_Setup_ES.exe",
-  "changelog": "Optimización para ejecución desde PC, correcciones en lectura UART, manejo mejorado de drivers, y mejoras de estabilidad.",
+  "changelog": "Optimización para ejecución de autodiagnosticos, correcciones en lectura UART, manejo mejorado de drivers, nuevos skins y mejoras de estabilidad.",
   "News": "Nueva versión PC 3.0 disponible para tu dispositivo.",
   "allow_group": ["A", "B", "C", "D", "E", "F"],
   "force_update": true,
