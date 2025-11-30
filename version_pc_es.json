@@ -1,5 +1,5 @@
 {
-  "version": "3.0.1",
+  "version": "3.0.0",
   "download_url": "https://github.com/iader-salgado/diagnostic-console-for-smart-tv/releases/download/PC_3.0/Diagnostic-Console-for-Smart-TV_Setup_ES.exe",
   "changelog": "Optimización para ejecución de autodiagnosticos, correcciones en lectura UART, manejo mejorado de drivers, nuevos skins y mejoras de estabilidad.",
   "News": "Nueva versión PC 3.0 disponible para tu dispositivo.",
