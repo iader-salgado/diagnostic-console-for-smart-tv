@@ -2,7 +2,7 @@
   "version": "3.0.5",
   "downloads": {
     "FREE": "https://github.com/.../free.exe",
-    "USB": "https://github.com/iader-salgado/diagnostic-console-for-smart-tv/releases/download/USB_3.0/USB_Dagnostic_Console_for_Smart_TV.exe",
+    "USB": "https://github.com/iader-salgado/diagnostic-console-for-smart-tv/releases/download/USB_3.0/USB_Diagnostic_Console_for_Smart_TV.exe",
     "BETA": "https://github.com/.../beta.exe"
   },
   "changelog": "Mejoras generales",
