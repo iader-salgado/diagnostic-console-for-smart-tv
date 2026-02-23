@@ -1,9 +1,13 @@
 {
-  "version": "2.5.9",
-  "download_url": "https://github.com/iader-salgado/diagnostic-console-for-smart-tv/releases/download/v2.5.6/Diagnostic-Console-for-Smart-TV_Setup.exe",
-  "changelog": "Mejoras de estabilidad sin conexion a internet, nuevos comandos y nuevas funciones de diagnóstico.",
-  "News": "Su desempeño es nuestra prioridad, y queremos mantener sus servicios eficientes.",
-  "allow_group": ["A", "B"], 
-  "force_update": false,
-  "message": "Hemos actualizado tu Diagnostic console for Smart TV"
+  "version": "3.0.0",
+  "downloads": {
+    "FREE": "https://github.com/.../free.exe",
+    "USB": "https://github.com/iader-salgado/diagnostic-console-for-smart-tv/releases/edit/USB_3.0/USB_Dagnostic_Console_for_Smart_TV.exe",
+    "BETA": "https://github.com/.../beta.exe"
+  },
+  "changelog": "Mejoras generales",
+  "News": "Nueva arquitectura",
+  "allow_group": ["FREE", "USB", "BETA"],
+  "force_update_groups": ["USB"],
+  "message": "Hay una nueva actualización disponible."
 }
