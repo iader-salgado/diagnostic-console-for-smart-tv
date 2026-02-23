@@ -6,8 +6,8 @@
     "BETA": "https://github.com/.../beta.exe"
   },
   "changelog": "Mejoras generales",
-  "News": "Nueva arquitectura",
+  "News": "Nueva arquitectura USB disponible para tu dispositivo.",
   "allow_group": ["FREE", "USB", "BETA"],
   "force_update_groups": ["USB"],
-  "message": "Hay una nueva actualización disponible."
+  "message": "Actualización requerida: se han realizado mejoras importantes en la versión USB."
 }
