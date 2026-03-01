@@ -1,1 +1,36 @@
+{
+  "mode": "COURSE",
 
+  "validity_global": {
+    "start": "2026-01-01T00:00:00",
+    "end": "2026-12-31T23:59:59"
+  },
+
+  "courses": {
+    "COURSE_MARCH_1_15_2026": {
+      "validity": {
+        "start": "2026-03-01T00:00:00",
+        "end": "2026-03-15T23:59:59"
+      },
+      "hwid": [
+        "43859BC57499241C0F0445009E1A7FF7F1E804B9"
+      ]
+    },
+
+    "COURSE_MARCH_15_30_2026": {
+      "validity": {
+        "start": "2026-03-15T00:00:00",
+        "end": "2026-03-30T23:59:59"
+      },
+      "hwid": [
+        ""
+      ]
+    }
+  },
+
+  "features": {
+    "mode": "FULL"
+  },
+
+  "signature": "PENDING"
+}
