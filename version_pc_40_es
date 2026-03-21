@@ -1,1 +1,8 @@
-
+{
+  "version": "4.0.0",
+  "download_url": "https://github.com/iader-salgado/diagnostic-console-for-smart-tv/releases/download/PC_4.0_Pro/Diagnostic-Console-for-Smart-TV_Setup_4.0_ES.exe",
+  "changelog": "Actualización mayor con mejoras en la comunicación UART, optimización del manejo de buffer, mayor estabilidad, mejoras en la interfaz de usuario y mejor rendimiento en diagnóstico.",
+  "news": "Nueva versión 4.0 Pro para PC disponible.",
+  "force_update": true,
+  "message": "Actualización obligatoria: se han realizado mejoras importantes en la versión 4.0."
+}
