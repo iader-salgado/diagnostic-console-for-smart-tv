@@ -1,0 +1,38 @@
+{
+  "mode": "COURSE",
+
+  "validity_global": {
+    "start": "2026-01-01T00:00:00",
+    "end": "2026-12-31T23:59:59"
+  },
+
+  "courses": {
+    "COURSE_APRIL_6_30_2026": {
+      "validity": {
+        "start": "2026-04-07T00:00:00",
+        "end": "2026-04-30T23:59:59"
+      },
+      "token": [
+        "993983802F3D63B8452839278BC46096F17C57F5"
+
+        
+      ]
+    },
+
+    "COURSE_APRIL_TO_JUNE_2026": {
+      "validity": {
+        "start": "2026-04-07T00:00:00",
+        "end": "2026-06-30T23:59:59"
+      },
+      "token": [
+        ""
+      ]
+    }
+  },
+
+  "features": {
+    "mode": "FULL"
+  },
+
+  "signature": "PENDING"
+}
